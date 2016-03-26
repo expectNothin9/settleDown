@@ -9,3 +9,5 @@ install git
 ~~~
 sudo yum install git-all
 ~~~
+
+[markdown example](http://www.unexpected-vortices.com/sw/rippledoc/quick-markdown-example.html)
