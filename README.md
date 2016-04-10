@@ -12,4 +12,10 @@ install git
 sudo yum install git-all
 ~~~
 
+install gulp
+------------
+~~~
+npm install --global gulp-cli
+~~~
+
 [markdown example](http://www.unexpected-vortices.com/sw/rippledoc/quick-markdown-example.html)
